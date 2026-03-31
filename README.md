@@ -16,8 +16,8 @@ Technologies Used
 
     Database: MySQL
 
-    Frontend: HTML, CSS, JavaScript (or any frameworks you used for the frontend)
-
+    Frontend: HTML, CSS
+    
     Version Control: Git, GitHub
 
 Setup and Installation
